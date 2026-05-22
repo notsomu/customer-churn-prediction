@@ -49,7 +49,7 @@ Customer churn is a major business challenge where customers stop using a compan
 
 ### Churn Distribution
 
-![Churn Distribution](images/churn_distribution.jpg)
+![Churn Distribution](images/churn_distribution.png)
 
 ### Accuracy Output
 
