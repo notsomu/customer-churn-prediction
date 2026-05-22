@@ -40,3 +40,17 @@ Customer churn is a major business challenge where customers stop using a compan
 - Hyperparameter tuning
 - Deployment using Flask/Streamlit
 - Real-time churn prediction dashboard
+
+## Visualizations
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.jpg)
+
+### Churn Distribution
+
+![Churn Distribution](images/churn_distribution.jpg)
+
+### Accuracy Output
+
+![Accuracy](images/accuracy_output.jpg)
